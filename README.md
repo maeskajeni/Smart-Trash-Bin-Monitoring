@@ -1,2 +1,2 @@
 # Smart-Trash-Bin-Monitoring
-Tempat sampah pintar yang digunakan untuk memudahkan masyarakat, menggunakan esp32 dan LCD untuk melihat kapasitas sampah apakah sudah penuh, tempat sampah ini juga menggunakan aplikasi BLynk untuk melihat kapasitas sampah sudah penuh atau belum.
+The smart trash can is used to make things easier for the public, using esp32 and LCD to see whether the trash capacity is full, this trash can also uses the Blynk application to see whether the trash capacity is full or not.
