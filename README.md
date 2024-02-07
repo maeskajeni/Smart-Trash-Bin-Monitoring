@@ -1,2 +1,2 @@
 # Smart-Trash-Bin-Monitoring
-The smart trash can is used to make things easier for the public, using esp32 and LCD to see whether the trash capacity is full, this trash can also uses the Blynk application to see whether the trash capacity is full or not.
+Smart trash cans are used to monitor and manage waste efficiently, the sensors used are ultrasonic sensors, servo motors, and use ESP32, smart trash cans also use mobile applications such as Blynk which can be used by janitors or managers to monitor and manage trash cans directly from mobile devices. This application can provide notifications when the trash bin is full, set a trash collection schedule, and provide reports on waste management.
